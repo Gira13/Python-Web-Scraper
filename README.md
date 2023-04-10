@@ -1,4 +1,4 @@
-# Python-Web-Scraper
+# Python-based Automated Web Scraper with AWS S3 and Athena Integration
 This project provides a simple and effective way of extracting data from an auction website, storing it in a secure location, and retrieving it whenever needed. With the use of AWS technologies such as S3 and Athena, the entire process is streamlined and optimized for maximum efficiency
 
 Details:
